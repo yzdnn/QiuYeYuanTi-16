@@ -24,6 +24,9 @@
 <img width="540" height="720" alt="4" src="https://github.com/user-attachments/assets/1411c2ca-d66a-4b0c-a8ed-b1b581180a9b" />
 <img width="540" height="720" alt="5" src="https://github.com/user-attachments/assets/357e3b5d-2ceb-4216-9130-20013f32c2d6" />
 
+## **～补足～**
+
+本字体的保留名称为「秋叶圆体 16」「QiuYeYuanTi 16」，发布修改后的字体改名时不得使用以上保留名称。
 
 ## **～联络作者～**
 
